@@ -1,7 +1,3 @@
-var a = 7;
-var b = 5;
+var promptStr = prompt('何か好きな文字を入力してください。');
 
-alert(a + b);
-alert(a - b);
-alert(a * b);
-alert(a / b);
+alert(promptStr);
